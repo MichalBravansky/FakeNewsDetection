@@ -10,7 +10,7 @@ Starting with my project Mej Prehled, I began to be concerned with distributing 
 
 ## Conclusion
 
- was able to create a model with about 98% accuracy. This percentage surpass my expectation. However, if we wanted to improve the model, I would suggest using some more modern models, for example BERT or ELECTRA.
+I was able to create a model with about 98% accuracy. This percentage surpass my expectation. However, if we wanted to improve the model, I would suggest using some more modern models, for example BERT or ELECTRA.
 
 ## How To Reproduce
 
