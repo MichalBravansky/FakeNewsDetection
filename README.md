@@ -6,7 +6,7 @@ The goal is to create a system, which will be able to classify a specific articl
 
 ## Motivation
 
-Starting with my project Mej Prehled, I began to be concerned with distributing information and avoiding fake news. However, fake news detection is still almost impossible with todays technology. Therefore in this project, I would like to set up a benchmark, so when I am working on a future projects concerning this problem, I will have something to compare them to.
+Starting with my project Mej Prehled, I began to be concerned with distributing information and avoiding fake news. I believe that for many centuries, the main problem fo the society was the lack of information. However, nowadays, we face a different problem, the unlimited streams of information everyone has access to. In this project I try to focus on this issue by creating a basic classifier, to help identify misinformation.
 
 ## Conclusion
 
