@@ -1,6 +1,6 @@
 # Fake News Detection With Sentiment Analysis
 
-In this project, I analyze english articles with FastText and Pytorch.
+In this project, I analyze english articles with FastText and XGBoost.
 
 The goal is to create a system, which will be able to classify a specific article as a fake news or a legitimite one.
 
